@@ -6,6 +6,7 @@
 
 using Microsoft.AspNetCore.Authentication;
 using Microsoft.AspNetCore.Authentication.OAuth;
+#pragma warning disable 1574,1584,1581,1580
 
 namespace AspNet.Security.OAuth.Discord
 {

@@ -5,6 +5,7 @@
  */
 
 using Microsoft.AspNetCore.Authentication;
+#pragma warning disable 1574,1584,1581,1580
 
 namespace AspNet.Security.OAuth.Nextcloud
 {
